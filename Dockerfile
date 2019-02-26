@@ -1,4 +1,4 @@
-FROM maven:3-jdk-11
+FROM maven
 ENV GOPATH=/
 ENV DEBIAN_FRONTEND="noninteractive"
 
